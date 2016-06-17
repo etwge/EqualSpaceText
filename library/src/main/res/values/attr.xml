@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EqualSpaceTextView">
+        <attr name="es_text" format="string"/>
+        <attr name="es_textColor" format="color"/>
+        <attr name="es_textSize" format="dimension"/>
+    </declare-styleable>
+</resources>
